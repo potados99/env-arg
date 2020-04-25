@@ -1,0 +1,29 @@
+{
+  "name": "env-arg",
+  "version": "0.0.1",
+  "description": "NodeJS wrapper for getting env variable and command line arguments",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potados99/env-arg.git"
+  },
+  "keywords": [
+    "env",
+    "arg"
+  ],
+  "author": "potados99",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/potados99/env-arg/issues"
+  },
+  "homepage": "https://github.com/potados99/env-arg#readme",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
