@@ -2,10 +2,8 @@
   "name": "env-arg",
   "version": "0.0.3",
   "description": "NodeJS wrapper for getting env variable and command line arguments",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
-    "build": "babel index.mjs --out-file index.js",
-    "prepublish": "npm run build",
     "test": "echo no tests needed."
   },
   "repository": {
