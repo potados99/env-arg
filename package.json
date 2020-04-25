@@ -1,6 +1,6 @@
 {
   "name": "env-arg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "NodeJS wrapper for getting env variable and command line arguments",
   "main": "index.mjs",
   "scripts": {
